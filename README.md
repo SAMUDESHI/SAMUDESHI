@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Mishla Udeshi
-- 👀 I’m interested in business , engineer by accident
-- 🌱 I’m currently learning anything and everything to setup my business
-- 💞️ I’m looking to collaborate on any business ideas that can scale to XX Cr a month in long run
+- Tech Generalist , but ios is my main playground.
+- 👀 I’m interested in business in general, engineer by accident
+- 🌱 I’m currently learning swiftUI , building SDKs and much more.
+- I'm intrested in investment banking , trying to mimic what big headge funds are doing with mere peny amount compared to them.
+- 💞️ I’m looking to build something meaning full for all.
 - 📫 How to reach me mishaludeshi96@gmail.com
 
 <!---
